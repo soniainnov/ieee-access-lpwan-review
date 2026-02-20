@@ -32,9 +32,9 @@
 |---|---|---|---|---|---|---|
 | 6 | Mekki, Bajic, Chaxel, Meyer | 2019 | A Comparative Study of LPWAN Technologies for Large-Scale IoT Deployment | ICT Express (Elsevier), vol. 5, pp. 1–7 — DOI: 10.1016/j.icte.2017.12.005 | [~] | annotations/06-mekki-2019.md |
 | 7 | Raza, Kulkarni, Sooriyabandara | 2017 | Low Power Wide Area Networks: An Overview | IEEE Communications Surveys & Tutorials, vol. 19, no. 2, pp. 855–873 — DOI: 10.1109/COMST.2017.2652320 | [~] | annotations/07-raza-2017.md |
-| 8 | | | | | [ ] | — |
-| 9 | | | | | [ ] | — |
-| 10 | | | | | [ ] | — |
+| 8 | Haxhibeqiri, De Poorter, Moerman, Hoebeke | 2018 | A Survey of LoRaWAN for IoT: From Technology to Application | Sensors (MDPI), vol. 18, no. 11, art. 3995 — DOI: 10.3390/s18113995 | [~] | annotations/08-haxhibeqiri-2018.md |
+| 9 | Wang, Lin, Adhikary, Grövlen, Sui, Blankenship, Bergman, Razaghi | 2017 | A Primer on 3GPP Narrowband Internet of Things (NB-IoT) | IEEE Communications Magazine, vol. 55, no. 3, pp. 117–123 — DOI: 10.1109/MCOM.2017.1600510CM | [~] | annotations/09-wang-2017.md |
+| 10 | Centenaro, Vangelista, Zanella, Zorzi | 2016 | Long-Range Communications in Unlicensed Bands: The Rising Stars in the IoT and Smart City Scenarios | IEEE Wireless Communications, vol. 23, no. 5, pp. 60–67 — DOI: 10.1109/MWC.2016.7721743 | [~] | annotations/10-centenaro-2016.md |
 
 ### Group C — AI/ML for IoT & Agriculture (5 articles)
 > Search: Scopus → "machine learning" AND "IoT" AND "agriculture" (Reviews, 2020–2025)
