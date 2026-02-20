@@ -41,8 +41,8 @@
 
 | # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
-| 11 | | | | | [ ] | — |
-| 12 | | | | | [ ] | — |
+| 11 | Liakos, Busato, Moshou, Pearson, Bochtis | 2018 | Machine Learning in Agriculture: A Review | Sensors (MDPI), vol. 18, no. 8, art. 2674 — DOI: 10.3390/s18082674 | [~] | annotations/11-liakos-2018.md |
+| 12 | Kamilaris, Prenafeta-Boldú | 2018 | Deep Learning in Agriculture: A Survey | Computers and Electronics in Agriculture (Elsevier), vol. 147, pp. 70–90 — DOI: 10.1016/j.compag.2018.02.016 | [~] | annotations/12-kamilaris-2018.md |
 | 13 | | | | | [ ] | — |
 | 14 | | | | | [ ] | — |
 | 15 | | | | | [ ] | — |
