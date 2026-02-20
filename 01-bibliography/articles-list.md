@@ -19,11 +19,11 @@
 
 | # | Authors | Year | Title | Journal/Publisher | Status | Annotation |
 |---|---|---|---|---|---|---|
-| 1 | Mythily et al. | 2025 | ML Innovations in LoRaWAN | Wiley | [ ] | annotations/01-mythily-2025.md |
-| 2 | Diane et al. | 2025 | Systematic review on LPWAN | Discover IoT | [ ] | annotations/02-diane-2025.md |
-| 3 | Ahmed et al. | 2025 | IoT+AI for sustainable agriculture | Smart Ag Tech | [ ] | annotations/03-ahmed-2025.md |
-| 4 | Rafi et al. | 2025/2026 | LPWAN vs 5G for smart agriculture | Springer | [ ] | annotations/04-rafi-2025.md |
-| 5 | Aldhaheri et al. | 2024 | LoRa for Agriculture 4.0 | IEEE IoT Journal | [ ] | annotations/05-aldhaheri-2024.md |
+| 1 | Mythily, Sree Nidhi, Sridharan | 2025 | Machine Learning Innovations in LoRaWAN: A Comprehensive Survey | Int. J. Communication Systems (Wiley) — DOI: 10.1002/dac.70285 | [~] | annotations/01-mythily-2025.md |
+| 2 | Diane, Diallo, Ndoye | 2025 | A Systematic and Comprehensive Review on LPWAN: Characteristics, Architecture, Applications and Research Challenges | Discover Internet of Things (Springer) — DOI: 10.1007/s43926-025-00097-6 | [~] | annotations/02-diane-2025.md |
+| 3 | Ahmed, Shakoor | 2025 | Advancing Agriculture Through IoT, Big Data, and AI: A Review of Smart Technologies Enabling Sustainability | Smart Agricultural Technology (Elsevier) — DOI: 10.1016/j.atech.2025.100848 | [~] | annotations/03-ahmed-2025.md |
+| 4 | Rafi, Behjati, Rafsanjani | 2025/2026 | Reliable and Cost-Efficient IoT Connectivity for Smart Agriculture: A Comparative Study of LPWAN, 5G, and Hybrid Connectivity Models | Springer chapter / arXiv:2503.11162 | [~] | annotations/04-rafi-2025.md |
+| 5 | Aldhaheri, Alshehhi, Manzil, Khalil, Javaid, Saeed, Alouini | 2024/2025 | LoRa Communication for Agriculture 4.0: Opportunities, Challenges, and Future Directions | IEEE Internet of Things Journal, vol. 12, no. 2, pp. 1380–1407 — DOI: 10.1109/JIOT.2024.3486369 | [~] | annotations/05-aldhaheri-2024.md |
 
 ### Group B — LPWAN Technology Foundations (5 articles)
 > Search: IEEE Xplore → "LoRaWAN" OR "NB-IoT" OR "Sigfox" + "survey" (2019–2025)
