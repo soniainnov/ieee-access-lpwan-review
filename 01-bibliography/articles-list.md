@@ -30,8 +30,8 @@
 
 | # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
-| 6 | | | | | [ ] | — |
-| 7 | | | | | [ ] | — |
+| 6 | Mekki, Bajic, Chaxel, Meyer | 2019 | A Comparative Study of LPWAN Technologies for Large-Scale IoT Deployment | ICT Express (Elsevier), vol. 5, pp. 1–7 — DOI: 10.1016/j.icte.2017.12.005 | [~] | annotations/06-mekki-2019.md |
+| 7 | Raza, Kulkarni, Sooriyabandara | 2017 | Low Power Wide Area Networks: An Overview | IEEE Communications Surveys & Tutorials, vol. 19, no. 2, pp. 855–873 — DOI: 10.1109/COMST.2017.2652320 | [~] | annotations/07-raza-2017.md |
 | 8 | | | | | [ ] | — |
 | 9 | | | | | [ ] | — |
 | 10 | | | | | [ ] | — |
