@@ -1,32 +1,34 @@
 # Master Articles List — S1 & S2 Reading
 
 > Article: AI-Enabled LPWAN Technologies for Precision Agriculture
-> Target: 50 articles read by end of Week 2 (Mar 7, 2026)
+> S1 target: 20 articles annotated by Feb 28, 2026
+> S2 target: 30 more articles by Mar 7, 2026
 
 ---
 
 ## Status Legend
 - [ ] To read
 - [~] In progress
-- [x] Annotated (annotation file created)
+- [x] Annotated ✓
 
 ---
 
-## Priority 1 — Direct Competitors / Closest Work (Must Read First)
+## S1 — Week 1 Reading List (20 articles, due Feb 28)
 
-| # | Authors | Year | Title | Journal | Status | Annotation file |
+### Group A — Direct Competitors (read first, 5 articles)
+
+| # | Authors | Year | Title | Journal/Publisher | Status | Annotation |
 |---|---|---|---|---|---|---|
-| 1 | Mythily et al. | 2025 | ML Innovations in LoRaWAN | Wiley | [ ] | — |
-| 2 | Diane et al. | 2025 | Systematic review on LPWAN | Discover IoT | [ ] | — |
-| 3 | Ahmed et al. | 2025 | IoT+AI for sustainable agriculture | Smart Ag Tech | [ ] | — |
-| 4 | Rafi et al. | 2025/2026 | LPWAN vs 5G for smart agriculture | Springer | [ ] | — |
-| 5 | Aldhaheri et al. | 2024 | LoRa for Agriculture 4.0 | IEEE IoT Journal | [ ] | — |
+| 1 | Mythily et al. | 2025 | ML Innovations in LoRaWAN | Wiley | [ ] | annotations/01-mythily-2025.md |
+| 2 | Diane et al. | 2025 | Systematic review on LPWAN | Discover IoT | [ ] | annotations/02-diane-2025.md |
+| 3 | Ahmed et al. | 2025 | IoT+AI for sustainable agriculture | Smart Ag Tech | [ ] | annotations/03-ahmed-2025.md |
+| 4 | Rafi et al. | 2025/2026 | LPWAN vs 5G for smart agriculture | Springer | [ ] | annotations/04-rafi-2025.md |
+| 5 | Aldhaheri et al. | 2024 | LoRa for Agriculture 4.0 | IEEE IoT Journal | [ ] | annotations/05-aldhaheri-2024.md |
 
----
+### Group B — LPWAN Technology Foundations (5 articles)
+> Search: IEEE Xplore → "LoRaWAN" OR "NB-IoT" OR "Sigfox" + "survey" (2019–2025)
 
-## Priority 2 — LPWAN Technology Papers
-
-| # | Authors | Year | Title | Journal | Status | Annotation file |
+| # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
 | 6 | | | | | [ ] | — |
 | 7 | | | | | [ ] | — |
@@ -34,11 +36,10 @@
 | 9 | | | | | [ ] | — |
 | 10 | | | | | [ ] | — |
 
----
+### Group C — AI/ML for IoT & Agriculture (5 articles)
+> Search: Scopus → "machine learning" AND "IoT" AND "agriculture" (Reviews, 2020–2025)
 
-## Priority 3 — AI/ML in Agricultural IoT
-
-| # | Authors | Year | Title | Journal | Status | Annotation file |
+| # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
 | 11 | | | | | [ ] | — |
 | 12 | | | | | [ ] | — |
@@ -46,11 +47,10 @@
 | 14 | | | | | [ ] | — |
 | 15 | | | | | [ ] | — |
 
----
+### Group D — Precision Agriculture Applications (5 articles)
+> Search: Google Scholar → "LoRaWAN" OR "NB-IoT" + "precision agriculture" + "sensor" (2021–2025)
 
-## Priority 4 — Precision Agriculture Applications
-
-| # | Authors | Year | Title | Journal | Status | Annotation file |
+| # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
 | 16 | | | | | [ ] | — |
 | 17 | | | | | [ ] | — |
@@ -60,18 +60,53 @@
 
 ---
 
-## S2 Articles (Week 2 — 30 more)
+## S2 — Week 2 Reading List (30 articles, due Mar 7)
 
-| # | Authors | Year | Title | Journal | Status | Annotation file |
+| # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
 | 21 | | | | | [ ] | — |
 | 22 | | | | | [ ] | — |
 | 23 | | | | | [ ] | — |
+| 24 | | | | | [ ] | — |
+| 25 | | | | | [ ] | — |
+| 26 | | | | | [ ] | — |
+| 27 | | | | | [ ] | — |
+| 28 | | | | | [ ] | — |
+| 29 | | | | | [ ] | — |
+| 30 | | | | | [ ] | — |
+| 31–50 | | | | | [ ] | — |
 
 ---
 
 ## Reading Progress
 
-- **S1 target:** 20 articles by Feb 28
-- **S2 target:** 30 more by Mar 7
-- **Total annotated:** 0 / 50
+| Week | Target | Done | Remaining |
+|---|---|---|---|
+| S1 (Feb 20–28) | 20 | 0 | 20 |
+| S2 (Mar 1–7) | 30 | 0 | 30 |
+| **Total** | **50** | **0** | **50** |
+
+---
+
+## Suggested Search Queries by Group
+
+### Group B — LPWAN Foundations
+```
+IEEE Xplore:
+("LoRaWAN" OR "NB-IoT" OR "Sigfox") AND ("survey" OR "review" OR "comparison")
+Filter: 2019–2025, Journals only
+```
+
+### Group C — AI/ML + Agriculture
+```
+Scopus:
+TITLE-ABS-KEY("machine learning" OR "deep learning") AND ("IoT" OR "wireless sensor")
+AND ("precision agriculture" OR "smart farming")
+Filter: Document type = Review, 2020–2025
+```
+
+### Group D — Applications
+```
+Google Scholar:
+"LoRaWAN" OR "NB-IoT" "precision agriculture" sensor deployment
+```
