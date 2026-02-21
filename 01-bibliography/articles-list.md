@@ -66,7 +66,7 @@
 |---|---|---|---|---|---|---|
 | 21 | Peruzzi, Pozzebon | 2022 | Combining LoRaWAN and NB-IoT for Edge-to-Cloud Low Power Connectivity Leveraging on Fog Computing | Applied Sciences (MDPI), vol. 12, no. 3, art. 1497 — DOI: 10.3390/app12031497 | [~] | annotations/21-peruzzi-2022.md |
 | 22 | Nguyen, Ding, Pathirana, Seneviratne, Li, Poor | 2021 | Federated Learning for Internet of Things: A Comprehensive Survey | IEEE Communications Surveys & Tutorials, vol. 23, no. 3, pp. 1622–1658 — DOI: 10.1109/COMST.2021.3075439 | [~] | annotations/22-nguyen-2021.md |
-| 23 | | | | | [ ] | — |
+| 23 | Avşar, Mowla | 2022 | Wireless Communication Protocols in Smart Agriculture: A Review on Applications, Challenges and Future Trends | Ad Hoc Networks (Elsevier), vol. 136, art. 102982 — DOI: 10.1016/j.adhoc.2022.102982 | [~] | annotations/23-avsar-2022.md |
 | 24 | | | | | [ ] | — |
 | 25 | | | | | [ ] | — |
 | 26 | | | | | [ ] | — |
