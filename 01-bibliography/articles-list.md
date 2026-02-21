@@ -52,7 +52,7 @@
 
 | # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
-| 16 | | | | | [ ] | — |
+| 16 | Ayaz, Ammad-Uddin, Sharif, Mansour, Aggoune | 2019 | Internet-of-Things (IoT)-Based Smart Agriculture: Toward Making the Fields Talk | IEEE Access, vol. 7, pp. 129551–129583 — DOI: 10.1109/ACCESS.2019.2932609 | [~] | annotations/16-ayaz-2019.md |
 | 17 | | | | | [ ] | — |
 | 18 | | | | | [ ] | — |
 | 19 | | | | | [ ] | — |
