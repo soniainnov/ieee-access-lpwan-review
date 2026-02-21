@@ -56,7 +56,7 @@
 | 17 | Akhter, Sofi | 2021 | Precision Agriculture Using IoT Data Analytics and Machine Learning | J. King Saud University — Computer and Information Sciences (Elsevier), vol. 34, no. 8, pp. 5602–5618 — DOI: 10.1016/j.jksuci.2021.05.013 | [~] | annotations/17-akhter-2021.md |
 | 18 | Boursianis, Papadopoulou, Gotsis, Wan, Sarigiannidis, Nikolaidis, Goudos | 2021 | Smart Irrigation System for Precision Agriculture — The AREThOU5A IoT Platform | IEEE Sensors Journal, vol. 21, no. 16, pp. 17539–17547 — DOI: 10.1109/JSEN.2020.3033526 | [~] | annotations/18-boursianis-2021.md |
 | 19 | Kashyap, Kumar, Jaiswal, Prasad, Gandomi | 2021 | Towards Precision Agriculture: IoT-Enabled Intelligent Irrigation Systems Using Deep Learning Neural Network | IEEE Sensors Journal, vol. 21, no. 16, pp. 17479–17491 — DOI: 10.1109/JSEN.2021.3069266 | [~] | annotations/19-kashyap-2021.md |
-| 20 | | | | | [ ] | — |
+| 20 | Almufareh, Humayun, Ahmad, Khan | 2024 | An Intelligent LoRaWAN-Based IoT Device for Monitoring and Control Solutions in Smart Farming Through Anomaly Detection Integrated With Unsupervised Machine Learning | IEEE Access, vol. 12, pp. 119072–119086 — DOI: 10.1109/ACCESS.2024.3450587 | [~] | annotations/20-almufareh-2024.md |
 
 ---
 
@@ -82,9 +82,9 @@
 
 | Week | Target | Done | Remaining |
 |---|---|---|---|
-| S1 (Feb 20–28) | 20 | 0 | 20 |
+| S1 (Feb 20–28) | 20 | 20 | 0 |
 | S2 (Mar 1–7) | 30 | 0 | 30 |
-| **Total** | **50** | **0** | **50** |
+| **Total** | **50** | **20** | **30** |
 
 ---
 
