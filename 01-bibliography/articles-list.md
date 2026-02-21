@@ -55,7 +55,7 @@
 | 16 | Ayaz, Ammad-Uddin, Sharif, Mansour, Aggoune | 2019 | Internet-of-Things (IoT)-Based Smart Agriculture: Toward Making the Fields Talk | IEEE Access, vol. 7, pp. 129551–129583 — DOI: 10.1109/ACCESS.2019.2932609 | [~] | annotations/16-ayaz-2019.md |
 | 17 | Akhter, Sofi | 2021 | Precision Agriculture Using IoT Data Analytics and Machine Learning | J. King Saud University — Computer and Information Sciences (Elsevier), vol. 34, no. 8, pp. 5602–5618 — DOI: 10.1016/j.jksuci.2021.05.013 | [~] | annotations/17-akhter-2021.md |
 | 18 | Boursianis, Papadopoulou, Gotsis, Wan, Sarigiannidis, Nikolaidis, Goudos | 2021 | Smart Irrigation System for Precision Agriculture — The AREThOU5A IoT Platform | IEEE Sensors Journal, vol. 21, no. 16, pp. 17539–17547 — DOI: 10.1109/JSEN.2020.3033526 | [~] | annotations/18-boursianis-2021.md |
-| 19 | | | | | [ ] | — |
+| 19 | Kashyap, Kumar, Jaiswal, Prasad, Gandomi | 2021 | Towards Precision Agriculture: IoT-Enabled Intelligent Irrigation Systems Using Deep Learning Neural Network | IEEE Sensors Journal, vol. 21, no. 16, pp. 17479–17491 — DOI: 10.1109/JSEN.2021.3069266 | [~] | annotations/19-kashyap-2021.md |
 | 20 | | | | | [ ] | — |
 
 ---
