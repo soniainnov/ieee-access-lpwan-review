@@ -64,7 +64,7 @@
 
 | # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
-| 21 | | | | | [ ] | — |
+| 21 | Peruzzi, Pozzebon | 2022 | Combining LoRaWAN and NB-IoT for Edge-to-Cloud Low Power Connectivity Leveraging on Fog Computing | Applied Sciences (MDPI), vol. 12, no. 3, art. 1497 — DOI: 10.3390/app12031497 | [~] | annotations/21-peruzzi-2022.md |
 | 22 | | | | | [ ] | — |
 | 23 | | | | | [ ] | — |
 | 24 | | | | | [ ] | — |
