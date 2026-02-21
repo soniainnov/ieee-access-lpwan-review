@@ -53,7 +53,7 @@
 | # | Authors | Year | Title | Journal | Status | Annotation |
 |---|---|---|---|---|---|---|
 | 16 | Ayaz, Ammad-Uddin, Sharif, Mansour, Aggoune | 2019 | Internet-of-Things (IoT)-Based Smart Agriculture: Toward Making the Fields Talk | IEEE Access, vol. 7, pp. 129551–129583 — DOI: 10.1109/ACCESS.2019.2932609 | [~] | annotations/16-ayaz-2019.md |
-| 17 | | | | | [ ] | — |
+| 17 | Akhter, Sofi | 2021 | Precision Agriculture Using IoT Data Analytics and Machine Learning | J. King Saud University — Computer and Information Sciences (Elsevier), vol. 34, no. 8, pp. 5602–5618 — DOI: 10.1016/j.jksuci.2021.05.013 | [~] | annotations/17-akhter-2021.md |
 | 18 | | | | | [ ] | — |
 | 19 | | | | | [ ] | — |
 | 20 | | | | | [ ] | — |
